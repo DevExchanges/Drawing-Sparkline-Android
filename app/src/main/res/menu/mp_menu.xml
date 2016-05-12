@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="HardCodedText">
+
+    <item
+        android:id="@+id/actionToggleValues"
+        android:title="Toggle Values"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/actionToggleFilled"
+        android:title="Toggle Filled"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/actionToggleCircles"
+        android:title="Toggle Circles"
+        app:showAsAction="never" />
+
+</menu>
